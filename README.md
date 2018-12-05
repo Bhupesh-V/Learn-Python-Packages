@@ -1,5 +1,5 @@
 # Learn-Python-Packages
-### Find here jupyter notebooks of different python packages like opencv,numpy,PIL etc for kicstarting your learning
+### Find here jupyter notebooks :notebook: of different python packages like opencv,numpy,PIL etc for kickstarting your learning
 
 ### Installation
 
